@@ -4,7 +4,7 @@ Intro reading material, guides, resources, and videos.
 
 ## Bitcoin
 
-- [The Trust Machine](https://youtu.be/ZKwqNgG-Sv4)
+- [The Trust Machine: How and why Bitcoin works](https://youtu.be/ZKwqNgG-Sv4)
 - [How does Bitcoin actually work?](https://youtu.be/bBC-nXj3Ng4)
 - [Lightning Network explained](https://youtu.be/9UIOeoBEjmw)
 - [What is a Bitcoin wallet?](https://youtu.be/A1Pl5hYHXiI)
