@@ -1,9 +1,21 @@
 # Getting Started
 
-Intro reading material and videos.
+Intro reading material, guides, resources, and videos.
+
+## Guides
+
+- [Choose your Bitcoin wallet](https://bitcoin.org/en/choose-your-wallet)
 
 ## Videos
 
 - [The Trust Machine](https://youtu.be/ZKwqNgG-Sv4)
 - [How does Bitcoin actually work?](https://youtu.be/bBC-nXj3Ng4)
 - [What is DeFi?](https://youtu.be/k9HYC0EJU6E)
+
+## Resources
+
+- [Decrypt](https://decrypt.co/)
+- [CoinDesk](https://www.coindesk.com/)
+- [The Defiant](https://thedefiant.io/)
+- [rekt](https://www.rekt.news/)
+- [cryptofilter](https://cryptofilter.xyz/)
