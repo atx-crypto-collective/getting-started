@@ -4,10 +4,19 @@ Intro reading material, guides, resources, and videos.
 
 ## Videos
 
+### Bitcoin
+
 - [The Trust Machine](https://youtu.be/ZKwqNgG-Sv4)
 - [How does Bitcoin actually work?](https://youtu.be/bBC-nXj3Ng4)
-- [What is DeFi?](https://youtu.be/k9HYC0EJU6E)
 - [Lightning Network Explained](https://youtu.be/9UIOeoBEjmw)
+
+### DeFi
+
+- [What is DeFi?](https://youtu.be/k9HYC0EJU6E)
+
+### NFTs
+
+- [NFTs make the internet ownable](https://variant.mirror.xyz/T8kdtZRIgy_srXB5B06L8vBqFHYlEBcv6ae2zR6Y_eo)
 
 ## Guides
 
