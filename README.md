@@ -19,6 +19,10 @@ Intro reading material, guides, resources, and videos.
 
 - [NFTs make the internet ownable](https://variant.mirror.xyz/T8kdtZRIgy_srXB5B06L8vBqFHYlEBcv6ae2zR6Y_eo)
 
+## Governance
+
+- [Beyond Just Tokens: Community Legos](https://albiverse.substack.com/p/beyond-just-tokens-community-legos) - A look into how crypto can enable new ways to build and engage communities
+
 ## Resources
 
 - [Decrypt](https://decrypt.co/)
