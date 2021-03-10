@@ -6,10 +6,10 @@ Intro reading material, guides, resources, and videos.
 
 - [The Trust Machine: How and why Bitcoin works](https://youtu.be/ZKwqNgG-Sv4)
 - [How does Bitcoin actually work?](https://youtu.be/bBC-nXj3Ng4)
-- [Lightning Network explained](https://youtu.be/9UIOeoBEjmw)
 - [What is a Bitcoin wallet?](https://youtu.be/A1Pl5hYHXiI)
 - [Choose your Bitcoin wallet](https://bitcoin.org/en/choose-your-wallet)
 - [What is Bitcoin mining?](https://youtu.be/BODyqM-V71E)
+- [Lightning Network explained](https://youtu.be/9UIOeoBEjmw)
 
 ## DeFi
 
