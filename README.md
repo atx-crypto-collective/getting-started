@@ -23,6 +23,10 @@ Intro reading material, guides, resources, and videos.
 
 - [Beyond Just Tokens: Community Legos](https://albiverse.substack.com/p/beyond-just-tokens-community-legos) - A look into how crypto can enable new ways to build and engage communities
 
+## Tech
+
+- [What is IPFS?](https://docs.ipfs.io/concepts/what-is-ipfs/#decentralization) - Details on the "interplanetary file system", a popular content-addressed distributed file network.
+
 ## Resources
 
 - [Decrypt](https://decrypt.co/)
