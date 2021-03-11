@@ -1,6 +1,8 @@
-# Getting Started
+# ATX Crypto Collective - Getting Started
 
-Intro reading material, guides, resources, and videos.
+Crypto is a wild world, but behind the hype is an exciting glimpse at the start of what could be a radical refactoring of our digital society.
+
+ATX Crypto Collective was started with like-minded digital optimists that want to explore, learn, and build in this exciting new space. Below are links that we've found that can help you get your bearings and start your own journey.
 
 ## Bitcoin
 
@@ -17,7 +19,8 @@ Intro reading material, guides, resources, and videos.
 
 ## NFTs
 
-- [NFTs make the internet ownable](https://variant.mirror.xyz/T8kdtZRIgy_srXB5B06L8vBqFHYlEBcv6ae2zR6Y_eo)
+- [NFTs make the internet ownable](https://variant.mirror.xyz/T8kdtZRIgy_srXB5B06L8vBqFHYlEBcv6ae2zR6Y_eo) - Good intro to NFTs
+- [Hashmasks could decenter the art world, upend DeFi, and trigger a dramatic transfer of wealth. Will it?](https://micahwhite.medium.com/hashmasks-could-decenter-the-art-world-upend-defi-and-trigger-a-dramatic-transfer-of-wealth-65264c7c30b0) - Bit of an indulgent / dramatic write-up, but it highlights just how exciting some of the tech/art/??? mashups are in the space.
 
 ## Governance
 
