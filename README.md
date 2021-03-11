@@ -20,7 +20,7 @@ ATX Crypto Collective was started with like-minded digital optimists that want t
 ## NFTs
 
 - [NFTs make the internet ownable](https://variant.mirror.xyz/T8kdtZRIgy_srXB5B06L8vBqFHYlEBcv6ae2zR6Y_eo) - Good intro to NFTs
-- [Hashmasks could decenter the art world, upend DeFi, and trigger a dramatic transfer of wealth. Will it?](https://micahwhite.medium.com/hashmasks-could-decenter-the-art-world-upend-defi-and-trigger-a-dramatic-transfer-of-wealth-65264c7c30b0) - Bit of an indulgent / dramatic write-up, but it highlights just how exciting some of the tech/art/??? mashups are in the space.
+- [Hashmasks could decenter the art world](https://micahwhite.medium.com/hashmasks-could-decenter-the-art-world-upend-defi-and-trigger-a-dramatic-transfer-of-wealth-65264c7c30b0) - Bit of an indulgent / dramatic write-up, but it highlights just how exciting some of the tech/art/??? mashups are in the space.
 
 ## Governance
 
