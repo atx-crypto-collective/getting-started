@@ -3,8 +3,14 @@
 Crypto is a wild world, but behind the hype is an exciting glimpse at the start of what could be a radical refactoring of our digital society.
 
 ATX Crypto Collective was started with like-minded digital optimists that want to explore, learn, and build in this exciting new space. Below are links that we've found that can help you get your bearings and start your own journey.
+## Lisa's Lil' Library
+great smol intro into blockchain
+https://www.youtube.com/watch?v=nIadPWwr1HI&ab_channel=ACoupleCents
 
-## Bitcoin
+How does Blockchain work
+https://www.youtube.com/watch?v=_160oMzblY8&ab_channel=AndersBrownworth
+
+
 
 - [The Trust Machine: How and why Bitcoin works](https://youtu.be/ZKwqNgG-Sv4)
 - [How does Bitcoin actually work?](https://youtu.be/bBC-nXj3Ng4)
